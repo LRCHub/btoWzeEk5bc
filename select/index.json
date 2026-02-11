@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "雪中花（TVアニメ『薬屋のひとりごと』挿入歌）",
+  "base_artist": "きしかな子、内田ましろ、神前 暁",
+  "createdAt": "2026-02-11T09:30:25.491474Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雪中花(TVアニメ『薬屋のひとりごと』挿入歌)",
+      "artist": "きしかな子、内田ましろ、神前 暁",
+      "has_synced": false,
+      "path": "select/pl_01_雪中花(TVアニメ『薬屋のひとりごと』挿入歌)_きしかな子、内田ましろ、神前_暁.txt"
+    }
+  ]
+}
